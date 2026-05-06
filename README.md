@@ -105,5 +105,5 @@ Multi-column segmentation
 ## Python Concepts Used
 Pandas · pd.to_datetime · pd.to_numeric · dropna · 
 drop_duplicates · str.strip().str.lower() · apply() · 
-IQR Winsorization · Matplotlib boxplot and histogram
+IQR Winsorization
 
